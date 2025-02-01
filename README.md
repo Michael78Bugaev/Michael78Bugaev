@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Michael, who writes a MenturyOS and Shuttle Linux.
+Low-level programmer
 
 
 # 💻 Tech Stack:
